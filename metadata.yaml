@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25841
     wikipedia: http://en.wikipedia.org/wiki/Hudson_Taylor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23438#A-Ribband-of-BlueAnd-Other-Bible-Studies
 gutenberg_issued: '2007-11-10'
 gutenberg_type: Text
 identifiers:
